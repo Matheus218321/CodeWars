@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Meu número parece grande nisso - Número Narcisista/1.0.0": {
+        "runtime": {
+          "Meu número parece grande nisso - Número Narcisista.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Meu número parece grande nisso - Número Narcisista/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
