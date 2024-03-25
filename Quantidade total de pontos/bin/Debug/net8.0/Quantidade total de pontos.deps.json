@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Quantidade total de pontos/1.0.0": {
+        "runtime": {
+          "Quantidade total de pontos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Quantidade total de pontos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

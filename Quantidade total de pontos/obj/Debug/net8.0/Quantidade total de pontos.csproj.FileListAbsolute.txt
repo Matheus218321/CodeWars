@@ -1,0 +1,15 @@
+C:\Users\User\Documents\CodeWars\Quantidade total de pontos\bin\Debug\net8.0\Quantidade total de pontos.exe
+C:\Users\User\Documents\CodeWars\Quantidade total de pontos\bin\Debug\net8.0\Quantidade total de pontos.deps.json
+C:\Users\User\Documents\CodeWars\Quantidade total de pontos\bin\Debug\net8.0\Quantidade total de pontos.runtimeconfig.json
+C:\Users\User\Documents\CodeWars\Quantidade total de pontos\bin\Debug\net8.0\Quantidade total de pontos.dll
+C:\Users\User\Documents\CodeWars\Quantidade total de pontos\bin\Debug\net8.0\Quantidade total de pontos.pdb
+C:\Users\User\Documents\CodeWars\Quantidade total de pontos\obj\Debug\net8.0\Quantidade total de pontos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\CodeWars\Quantidade total de pontos\obj\Debug\net8.0\Quantidade total de pontos.AssemblyInfoInputs.cache
+C:\Users\User\Documents\CodeWars\Quantidade total de pontos\obj\Debug\net8.0\Quantidade total de pontos.AssemblyInfo.cs
+C:\Users\User\Documents\CodeWars\Quantidade total de pontos\obj\Debug\net8.0\Quantidade total de pontos.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\CodeWars\Quantidade total de pontos\obj\Debug\net8.0\Quantidade total de pontos.sourcelink.json
+C:\Users\User\Documents\CodeWars\Quantidade total de pontos\obj\Debug\net8.0\Quantidade total de pontos.dll
+C:\Users\User\Documents\CodeWars\Quantidade total de pontos\obj\Debug\net8.0\refint\Quantidade total de pontos.dll
+C:\Users\User\Documents\CodeWars\Quantidade total de pontos\obj\Debug\net8.0\Quantidade total de pontos.pdb
+C:\Users\User\Documents\CodeWars\Quantidade total de pontos\obj\Debug\net8.0\Quantidade total de pontos.genruntimeconfig.cache
+C:\Users\User\Documents\CodeWars\Quantidade total de pontos\obj\Debug\net8.0\ref\Quantidade total de pontos.dll
