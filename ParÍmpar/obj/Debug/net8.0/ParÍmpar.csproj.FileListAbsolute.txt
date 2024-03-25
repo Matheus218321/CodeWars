@@ -1,0 +1,15 @@
+C:\Users\User\Documents\CodeWars\ParÍmpar\bin\Debug\net8.0\ParÍmpar.exe
+C:\Users\User\Documents\CodeWars\ParÍmpar\bin\Debug\net8.0\ParÍmpar.deps.json
+C:\Users\User\Documents\CodeWars\ParÍmpar\bin\Debug\net8.0\ParÍmpar.runtimeconfig.json
+C:\Users\User\Documents\CodeWars\ParÍmpar\bin\Debug\net8.0\ParÍmpar.dll
+C:\Users\User\Documents\CodeWars\ParÍmpar\bin\Debug\net8.0\ParÍmpar.pdb
+C:\Users\User\Documents\CodeWars\ParÍmpar\obj\Debug\net8.0\ParÍmpar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\CodeWars\ParÍmpar\obj\Debug\net8.0\ParÍmpar.AssemblyInfoInputs.cache
+C:\Users\User\Documents\CodeWars\ParÍmpar\obj\Debug\net8.0\ParÍmpar.AssemblyInfo.cs
+C:\Users\User\Documents\CodeWars\ParÍmpar\obj\Debug\net8.0\ParÍmpar.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\CodeWars\ParÍmpar\obj\Debug\net8.0\ParÍmpar.sourcelink.json
+C:\Users\User\Documents\CodeWars\ParÍmpar\obj\Debug\net8.0\ParÍmpar.dll
+C:\Users\User\Documents\CodeWars\ParÍmpar\obj\Debug\net8.0\refint\ParÍmpar.dll
+C:\Users\User\Documents\CodeWars\ParÍmpar\obj\Debug\net8.0\ParÍmpar.pdb
+C:\Users\User\Documents\CodeWars\ParÍmpar\obj\Debug\net8.0\ParÍmpar.genruntimeconfig.cache
+C:\Users\User\Documents\CodeWars\ParÍmpar\obj\Debug\net8.0\ref\ParÍmpar.dll
