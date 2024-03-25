@@ -1,0 +1,15 @@
+C:\Users\User\Documents\CodeWars\Remover pontos de exclamação\bin\Debug\net8.0\Remover pontos de exclamação.exe
+C:\Users\User\Documents\CodeWars\Remover pontos de exclamação\bin\Debug\net8.0\Remover pontos de exclamação.deps.json
+C:\Users\User\Documents\CodeWars\Remover pontos de exclamação\bin\Debug\net8.0\Remover pontos de exclamação.runtimeconfig.json
+C:\Users\User\Documents\CodeWars\Remover pontos de exclamação\bin\Debug\net8.0\Remover pontos de exclamação.dll
+C:\Users\User\Documents\CodeWars\Remover pontos de exclamação\bin\Debug\net8.0\Remover pontos de exclamação.pdb
+C:\Users\User\Documents\CodeWars\Remover pontos de exclamação\obj\Debug\net8.0\Remover pontos de exclamação.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\CodeWars\Remover pontos de exclamação\obj\Debug\net8.0\Remover pontos de exclamação.AssemblyInfoInputs.cache
+C:\Users\User\Documents\CodeWars\Remover pontos de exclamação\obj\Debug\net8.0\Remover pontos de exclamação.AssemblyInfo.cs
+C:\Users\User\Documents\CodeWars\Remover pontos de exclamação\obj\Debug\net8.0\Remover pontos de exclamação.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\CodeWars\Remover pontos de exclamação\obj\Debug\net8.0\Remover pontos de exclamação.sourcelink.json
+C:\Users\User\Documents\CodeWars\Remover pontos de exclamação\obj\Debug\net8.0\Remover pontos de exclamação.dll
+C:\Users\User\Documents\CodeWars\Remover pontos de exclamação\obj\Debug\net8.0\refint\Remover pontos de exclamação.dll
+C:\Users\User\Documents\CodeWars\Remover pontos de exclamação\obj\Debug\net8.0\Remover pontos de exclamação.pdb
+C:\Users\User\Documents\CodeWars\Remover pontos de exclamação\obj\Debug\net8.0\Remover pontos de exclamação.genruntimeconfig.cache
+C:\Users\User\Documents\CodeWars\Remover pontos de exclamação\obj\Debug\net8.0\ref\Remover pontos de exclamação.dll
