@@ -1,0 +1,15 @@
+C:\Users\User\Documents\CodeWars\Substitua todas as vogais por ponto de exclamação na frase\obj\Debug\net8.0\Substitua todas as vogais por ponto de exclamação na frase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\CodeWars\Substitua todas as vogais por ponto de exclamação na frase\obj\Debug\net8.0\Substitua todas as vogais por ponto de exclamação na frase.AssemblyInfoInputs.cache
+C:\Users\User\Documents\CodeWars\Substitua todas as vogais por ponto de exclamação na frase\obj\Debug\net8.0\Substitua todas as vogais por ponto de exclamação na frase.AssemblyInfo.cs
+C:\Users\User\Documents\CodeWars\Substitua todas as vogais por ponto de exclamação na frase\obj\Debug\net8.0\Substitua todas as vogais por ponto de exclamação na frase.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\CodeWars\Substitua todas as vogais por ponto de exclamação na frase\obj\Debug\net8.0\Substitua todas as vogais por ponto de exclamação na frase.sourcelink.json
+C:\Users\User\Documents\CodeWars\Substitua todas as vogais por ponto de exclamação na frase\bin\Debug\net8.0\Substitua todas as vogais por ponto de exclamação na frase.exe
+C:\Users\User\Documents\CodeWars\Substitua todas as vogais por ponto de exclamação na frase\bin\Debug\net8.0\Substitua todas as vogais por ponto de exclamação na frase.deps.json
+C:\Users\User\Documents\CodeWars\Substitua todas as vogais por ponto de exclamação na frase\bin\Debug\net8.0\Substitua todas as vogais por ponto de exclamação na frase.runtimeconfig.json
+C:\Users\User\Documents\CodeWars\Substitua todas as vogais por ponto de exclamação na frase\bin\Debug\net8.0\Substitua todas as vogais por ponto de exclamação na frase.dll
+C:\Users\User\Documents\CodeWars\Substitua todas as vogais por ponto de exclamação na frase\bin\Debug\net8.0\Substitua todas as vogais por ponto de exclamação na frase.pdb
+C:\Users\User\Documents\CodeWars\Substitua todas as vogais por ponto de exclamação na frase\obj\Debug\net8.0\Substitua todas as vogais por ponto de exclamação na frase.dll
+C:\Users\User\Documents\CodeWars\Substitua todas as vogais por ponto de exclamação na frase\obj\Debug\net8.0\refint\Substitua todas as vogais por ponto de exclamação na frase.dll
+C:\Users\User\Documents\CodeWars\Substitua todas as vogais por ponto de exclamação na frase\obj\Debug\net8.0\Substitua todas as vogais por ponto de exclamação na frase.pdb
+C:\Users\User\Documents\CodeWars\Substitua todas as vogais por ponto de exclamação na frase\obj\Debug\net8.0\Substitua todas as vogais por ponto de exclamação na frase.genruntimeconfig.cache
+C:\Users\User\Documents\CodeWars\Substitua todas as vogais por ponto de exclamação na frase\obj\Debug\net8.0\ref\Substitua todas as vogais por ponto de exclamação na frase.dll
