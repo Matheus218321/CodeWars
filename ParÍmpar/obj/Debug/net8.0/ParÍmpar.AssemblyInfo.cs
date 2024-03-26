@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ParÍmpar")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c555aae2abf17978db4c6160b7015c88657dfc4b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("ParÍmpar")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ParÍmpar")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

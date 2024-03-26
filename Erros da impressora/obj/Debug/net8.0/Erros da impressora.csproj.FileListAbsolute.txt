@@ -1,0 +1,15 @@
+C:\Users\User\Documents\CodeWars\Erros da impressora\bin\Debug\net8.0\Erros da impressora.exe
+C:\Users\User\Documents\CodeWars\Erros da impressora\bin\Debug\net8.0\Erros da impressora.deps.json
+C:\Users\User\Documents\CodeWars\Erros da impressora\bin\Debug\net8.0\Erros da impressora.runtimeconfig.json
+C:\Users\User\Documents\CodeWars\Erros da impressora\bin\Debug\net8.0\Erros da impressora.dll
+C:\Users\User\Documents\CodeWars\Erros da impressora\bin\Debug\net8.0\Erros da impressora.pdb
+C:\Users\User\Documents\CodeWars\Erros da impressora\obj\Debug\net8.0\Erros da impressora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\CodeWars\Erros da impressora\obj\Debug\net8.0\Erros da impressora.AssemblyInfoInputs.cache
+C:\Users\User\Documents\CodeWars\Erros da impressora\obj\Debug\net8.0\Erros da impressora.AssemblyInfo.cs
+C:\Users\User\Documents\CodeWars\Erros da impressora\obj\Debug\net8.0\Erros da impressora.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\CodeWars\Erros da impressora\obj\Debug\net8.0\Erros da impressora.sourcelink.json
+C:\Users\User\Documents\CodeWars\Erros da impressora\obj\Debug\net8.0\Erros da impressora.dll
+C:\Users\User\Documents\CodeWars\Erros da impressora\obj\Debug\net8.0\refint\Erros da impressora.dll
+C:\Users\User\Documents\CodeWars\Erros da impressora\obj\Debug\net8.0\Erros da impressora.pdb
+C:\Users\User\Documents\CodeWars\Erros da impressora\obj\Debug\net8.0\Erros da impressora.genruntimeconfig.cache
+C:\Users\User\Documents\CodeWars\Erros da impressora\obj\Debug\net8.0\ref\Erros da impressora.dll

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Meu número parece grande nisso - Número Narcisista")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+019307ea4c649ef3a14e66cec290ffbc2a450f52")]
 [assembly: System.Reflection.AssemblyProductAttribute("Meu número parece grande nisso - Número Narcisista")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Meu número parece grande nisso - Número Narcisista")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

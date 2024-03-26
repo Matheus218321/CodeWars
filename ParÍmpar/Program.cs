@@ -6,10 +6,24 @@ class Program
     {
         while (true)
         {
-            int Numero = 0;
-            Console.WriteLine("Digite um número inteiro: ");
-            Numero = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("Esse número é: " + ParImpar(Numero));
+            try
+            {
+                int Numero = 0;
+                Console.Write("Digite um número inteiro: ");
+                Numero = Convert.ToInt32(Console.ReadLine());
+                Console.WriteLine();
+                Console.WriteLine("Esse número é: " + ParImpar(Numero));
+            }
+
+            catch
+            {
+                Console.WriteLine();
+                Console.ForegroundColor = ConsoleColor.Red;
+                Console.WriteLine("Resposta não reconhecida!");
+                Console.ForegroundColor = ConsoleColor.White;
+                Console.WriteLine();
+            }
+
         }
     }
 
@@ -25,6 +39,5 @@ class Program
             return "Ímpar";
         }
 
-        return "";
     }
 }
