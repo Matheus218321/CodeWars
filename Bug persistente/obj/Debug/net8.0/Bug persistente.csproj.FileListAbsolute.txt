@@ -1,0 +1,15 @@
+C:\Users\User\Documents\CodeWars\Bug persistente\bin\Debug\net8.0\Bug persistente.exe
+C:\Users\User\Documents\CodeWars\Bug persistente\bin\Debug\net8.0\Bug persistente.deps.json
+C:\Users\User\Documents\CodeWars\Bug persistente\bin\Debug\net8.0\Bug persistente.runtimeconfig.json
+C:\Users\User\Documents\CodeWars\Bug persistente\bin\Debug\net8.0\Bug persistente.dll
+C:\Users\User\Documents\CodeWars\Bug persistente\bin\Debug\net8.0\Bug persistente.pdb
+C:\Users\User\Documents\CodeWars\Bug persistente\obj\Debug\net8.0\Bug persistente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\CodeWars\Bug persistente\obj\Debug\net8.0\Bug persistente.AssemblyInfoInputs.cache
+C:\Users\User\Documents\CodeWars\Bug persistente\obj\Debug\net8.0\Bug persistente.AssemblyInfo.cs
+C:\Users\User\Documents\CodeWars\Bug persistente\obj\Debug\net8.0\Bug persistente.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\CodeWars\Bug persistente\obj\Debug\net8.0\Bug persistente.sourcelink.json
+C:\Users\User\Documents\CodeWars\Bug persistente\obj\Debug\net8.0\Bug persistente.dll
+C:\Users\User\Documents\CodeWars\Bug persistente\obj\Debug\net8.0\refint\Bug persistente.dll
+C:\Users\User\Documents\CodeWars\Bug persistente\obj\Debug\net8.0\Bug persistente.pdb
+C:\Users\User\Documents\CodeWars\Bug persistente\obj\Debug\net8.0\Bug persistente.genruntimeconfig.cache
+C:\Users\User\Documents\CodeWars\Bug persistente\obj\Debug\net8.0\ref\Bug persistente.dll
