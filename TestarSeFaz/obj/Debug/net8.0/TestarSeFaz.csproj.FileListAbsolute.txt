@@ -1,0 +1,15 @@
+C:\Users\User\Documents\CodeWars\TestarSeFaz\obj\Debug\net8.0\TestarSeFaz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\CodeWars\TestarSeFaz\obj\Debug\net8.0\TestarSeFaz.AssemblyInfoInputs.cache
+C:\Users\User\Documents\CodeWars\TestarSeFaz\obj\Debug\net8.0\TestarSeFaz.AssemblyInfo.cs
+C:\Users\User\Documents\CodeWars\TestarSeFaz\obj\Debug\net8.0\TestarSeFaz.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\CodeWars\TestarSeFaz\obj\Debug\net8.0\TestarSeFaz.sourcelink.json
+C:\Users\User\Documents\CodeWars\TestarSeFaz\bin\Debug\net8.0\TestarSeFaz.exe
+C:\Users\User\Documents\CodeWars\TestarSeFaz\bin\Debug\net8.0\TestarSeFaz.deps.json
+C:\Users\User\Documents\CodeWars\TestarSeFaz\bin\Debug\net8.0\TestarSeFaz.runtimeconfig.json
+C:\Users\User\Documents\CodeWars\TestarSeFaz\bin\Debug\net8.0\TestarSeFaz.dll
+C:\Users\User\Documents\CodeWars\TestarSeFaz\bin\Debug\net8.0\TestarSeFaz.pdb
+C:\Users\User\Documents\CodeWars\TestarSeFaz\obj\Debug\net8.0\TestarSeFaz.dll
+C:\Users\User\Documents\CodeWars\TestarSeFaz\obj\Debug\net8.0\refint\TestarSeFaz.dll
+C:\Users\User\Documents\CodeWars\TestarSeFaz\obj\Debug\net8.0\TestarSeFaz.pdb
+C:\Users\User\Documents\CodeWars\TestarSeFaz\obj\Debug\net8.0\TestarSeFaz.genruntimeconfig.cache
+C:\Users\User\Documents\CodeWars\TestarSeFaz\obj\Debug\net8.0\ref\TestarSeFaz.dll
