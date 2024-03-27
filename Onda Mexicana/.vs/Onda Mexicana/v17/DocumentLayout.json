@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\User\\Documents\\CodeWars\\TestarSeFaz\\",
+  "WorkspaceRootPath": "C:\\Users\\User\\Documents\\CodeWars\\Onda Mexicana\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3C0E929F-4443-4279-B3B3-F78563E686FC}|TestarSeFaz.csproj|c:\\users\\user\\documents\\codewars\\testarsefaz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C0E929F-4443-4279-B3B3-F78563E686FC}|TestarSeFaz.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{05A85D02-07D6-402F-85CD-AD10838AF6DD}|Onda Mexicana.csproj|c:\\users\\user\\documents\\codewars\\onda mexicana\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05A85D02-07D6-402F-85CD-AD10838AF6DD}|Onda Mexicana.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,13 +24,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\CodeWars\\TestarSeFaz\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\CodeWars\\Onda Mexicana\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\CodeWars\\TestarSeFaz\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\CodeWars\\Onda Mexicana\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAJAAAAAAAAAAAAAYwKkAAAAUAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-26T23:51:33.782Z",
+              "WhenOpened": "2024-03-27T16:43:08.334Z",
               "EditorCaption": ""
             }
           ]

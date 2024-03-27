@@ -1,0 +1,15 @@
+C:\Users\User\Documents\CodeWars\Onda Mexicana\bin\Debug\net8.0\Onda Mexicana.exe
+C:\Users\User\Documents\CodeWars\Onda Mexicana\bin\Debug\net8.0\Onda Mexicana.deps.json
+C:\Users\User\Documents\CodeWars\Onda Mexicana\bin\Debug\net8.0\Onda Mexicana.runtimeconfig.json
+C:\Users\User\Documents\CodeWars\Onda Mexicana\bin\Debug\net8.0\Onda Mexicana.dll
+C:\Users\User\Documents\CodeWars\Onda Mexicana\bin\Debug\net8.0\Onda Mexicana.pdb
+C:\Users\User\Documents\CodeWars\Onda Mexicana\obj\Debug\net8.0\Onda Mexicana.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\CodeWars\Onda Mexicana\obj\Debug\net8.0\Onda Mexicana.AssemblyInfoInputs.cache
+C:\Users\User\Documents\CodeWars\Onda Mexicana\obj\Debug\net8.0\Onda Mexicana.AssemblyInfo.cs
+C:\Users\User\Documents\CodeWars\Onda Mexicana\obj\Debug\net8.0\Onda Mexicana.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\CodeWars\Onda Mexicana\obj\Debug\net8.0\Onda Mexicana.sourcelink.json
+C:\Users\User\Documents\CodeWars\Onda Mexicana\obj\Debug\net8.0\Onda Mexicana.dll
+C:\Users\User\Documents\CodeWars\Onda Mexicana\obj\Debug\net8.0\refint\Onda Mexicana.dll
+C:\Users\User\Documents\CodeWars\Onda Mexicana\obj\Debug\net8.0\Onda Mexicana.pdb
+C:\Users\User\Documents\CodeWars\Onda Mexicana\obj\Debug\net8.0\Onda Mexicana.genruntimeconfig.cache
+C:\Users\User\Documents\CodeWars\Onda Mexicana\obj\Debug\net8.0\ref\Onda Mexicana.dll
