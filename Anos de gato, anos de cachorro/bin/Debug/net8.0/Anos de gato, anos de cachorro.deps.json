@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Anos de gato, anos de cachorro/1.0.0": {
+        "runtime": {
+          "Anos de gato, anos de cachorro.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Anos de gato, anos de cachorro/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
